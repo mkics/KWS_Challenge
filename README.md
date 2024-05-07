@@ -4,4 +4,4 @@
 # KWS-Challenge
 
 Purpose of this project is to develop a Keyword Spotting hardware accelerator using a generative AI(such as Rapidgpt) to use on Caravel System-on-Chip. I will try to efficiently use as many coefficients as I can of the mel-frequency cepstrum algorithm.
-If better suited algorithms are found they will be used. The testbenches will also be written by the generative AI(as much as possible).  
+If better suited algorithms are found they will be used. The testbenches will also be written by the generative AI(as much as possible). Openlane will be used for the STA analysis.
